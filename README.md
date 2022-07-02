@@ -4,7 +4,7 @@
 
 * データ可視化で日本列島を表現する場合、GIS的な地図表現以外に、単純化された日本列島で示す場合がある。
 * そうした表現には様々な型があり、それぞれに長所短所がある。それらをまとめることで、適切な型を選択できるようにしたい。
-* 使えそうなやつは、HTMLのテンプレートを用意するなどしたい。
+* 使えそうなやつは、HTMLやSVGのテンプレートを用意するなどしたい。
 * 用例採集情報の提供や、プルリクエストは大歓迎です。
 
 ## テクニックetc
@@ -19,7 +19,7 @@
 
 * 1県1マスとすると、ぱっと見日本列島であるという認識がしづらいため、北海道を2マスで表現するケースも
 * 九州、四国、本州、北海道の間の海を表現するために、グリッド間隔が調整されているケースもある
-* [座標からSVGを生成するSnnipetsを書いた](https://codepen.io/tvizninja/pen/rNdVjGG) -> csv2grid.html
+* [グリッド座標からSVGを生成するSnnipetsを書いた](https://codepen.io/tvizninja/pen/rNdVjGG) -> csv2grid.html
 
 #### Grid 4x12
 
@@ -81,18 +81,7 @@
 * case
   * <https://loom.jp/kmap/price.html>
 
-```
-　　　　　　　　　　　北北
-　　　　　　　　　　　北北
-　　　　　　　　　　　青
-　　　　　　　　　　　秋岩
-　　　　　　　　　　　山宮
-　　　　　　　　石　新群福
-　　　　鳥島兵京福富長埼栃
-長佐福山広岡大奈滋岐山東茨
-　熊大　愛香　和三愛静神千
-沖鹿宮　高徳
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-10x13.svg" width="400" height="400">
 
 ### Rectangle Type
 
