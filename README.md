@@ -2,9 +2,9 @@
 
 ## What is This
 
-* データ可視化で日本列島を表現する場合、GIS的な地図表現以外に、単純化された日本列島で示す場合がある。
+* データ可視化の分野で日本列島を表現する場合、単純化された地図を示す場合がある。
 * そうした表現には様々な型があり、それぞれに長所短所がある。それらをまとめることで、適切な型を選択できるようにしたい。
-* 使えそうなやつは、HTMLやSVGのテンプレートを用意するなどしたい。
+* 有用そうなやつは、HTMLやSVGのテンプレートを用意するなどしていきたい。
 * 用例採集情報の提供や、プルリクエストは大歓迎です。
 
 ## テクニックetc
@@ -48,33 +48,14 @@
 * case
   * <https://sangiin.go2senkyo.com/2022/>
 
-```
-　　　　　　　　　　　北
-　　　　　　　　　　秋青
-　　　　　　　石　新山岩
-　　　　　　　福富群栃宮
-長佐福山鳥島京滋岐長埼福
-　熊大広岡兵大奈愛山東茨
-　鹿宮愛香　和三　静神千
-沖　　高徳
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-8x12.svg" width="400" height="400">
 
 #### Grid 9x10
 
 * case
   * <https://townnote.net/000_5.html>
 
-```
-　　　　　　　　　北
-　　　　　　　　秋青
-　　　　　　　　山岩
-　　　　　石富新福宮
-　山鳥島兵京福長群栃
-佐福広岡奈滋岐山埼茨
-長大愛香大三愛静東千
-熊宮高徳和　　　神
-沖鹿
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-9x10.svg" width="400" height="400">
 
 #### Grid 10x13
 
