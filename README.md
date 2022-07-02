@@ -34,15 +34,7 @@
 * 左上2マスに全国(総数)を割り当てetc
   * <https://www.stopcovid19.jp/>
 
-```
-　　鳥石富青北
-山島岡福新秋岩
-長福広滋長山宮
-佐大兵京山群福
-熊宮大奈岐埼栃
-鹿愛香和静東茨
-沖高徳三愛神千
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-7x7.svg" width="400" height="400">
 
 #### Grid 8x10
 

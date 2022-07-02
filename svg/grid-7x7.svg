@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+    <g pcd="01" transform="translate(342.85714285714283,0)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">北海道</text>
+    </g>
+    <g pcd="02" transform="translate(285.7142857142857,0)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">青森</text>
+    </g>
+    <g pcd="03" transform="translate(342.85714285714283,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">岩手</text>
+    </g>
+    <g pcd="04" transform="translate(342.85714285714283,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">宮城</text>
+    </g>
+    <g pcd="05" transform="translate(285.7142857142857,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">秋田</text>
+    </g>
+    <g pcd="06" transform="translate(285.7142857142857,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">山形</text>
+    </g>
+    <g pcd="07" transform="translate(342.85714285714283,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">福島</text>
+    </g>
+    <g pcd="08" transform="translate(342.85714285714283,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">茨城</text>
+    </g>
+    <g pcd="09" transform="translate(342.85714285714283,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">栃木</text>
+    </g>
+    <g pcd="10" transform="translate(285.7142857142857,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">群馬</text>
+    </g>
+    <g pcd="11" transform="translate(285.7142857142857,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">埼玉</text>
+    </g>
+    <g pcd="12" transform="translate(342.85714285714283,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">千葉</text>
+    </g>
+    <g pcd="13" transform="translate(285.7142857142857,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">東京</text>
+    </g>
+    <g pcd="14" transform="translate(285.7142857142857,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">神奈川</text>
+    </g>
+    <g pcd="15" transform="translate(228.57142857142858,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">新潟</text>
+    </g>
+    <g pcd="16" transform="translate(228.57142857142858,0)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">富山</text>
+    </g>
+    <g pcd="17" transform="translate(171.42857142857142,0)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">石川</text>
+    </g>
+    <g pcd="18" transform="translate(171.42857142857142,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">福井</text>
+    </g>
+    <g pcd="19" transform="translate(228.57142857142858,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">山梨</text>
+    </g>
+    <g pcd="20" transform="translate(228.57142857142858,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">長野</text>
+    </g>
+    <g pcd="21" transform="translate(228.57142857142858,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">岐阜</text>
+    </g>
+    <g pcd="22" transform="translate(228.57142857142858,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">静岡</text>
+    </g>
+    <g pcd="23" transform="translate(228.57142857142858,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">愛知</text>
+    </g>
+    <g pcd="24" transform="translate(171.42857142857142,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">三重</text>
+    </g>
+    <g pcd="25" transform="translate(171.42857142857142,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">滋賀</text>
+    </g>
+    <g pcd="26" transform="translate(171.42857142857142,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">京都</text>
+    </g>
+    <g pcd="27" transform="translate(114.28571428571429,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">大阪</text>
+    </g>
+    <g pcd="28" transform="translate(114.28571428571429,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">兵庫</text>
+    </g>
+    <g pcd="29" transform="translate(171.42857142857142,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">奈良</text>
+    </g>
+    <g pcd="30" transform="translate(171.42857142857142,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">和歌山</text>
+    </g>
+    <g pcd="31" transform="translate(114.28571428571429,0)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">鳥取</text>
+    </g>
+    <g pcd="32" transform="translate(57.142857142857146,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">島根</text>
+    </g>
+    <g pcd="33" transform="translate(114.28571428571429,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">岡山</text>
+    </g>
+    <g pcd="34" transform="translate(114.28571428571429,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">広島</text>
+    </g>
+    <g pcd="35" transform="translate(0,57.142857142857146)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">山口</text>
+    </g>
+    <g pcd="36" transform="translate(114.28571428571429,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">徳島</text>
+    </g>
+    <g pcd="37" transform="translate(114.28571428571429,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">香川</text>
+    </g>
+    <g pcd="38" transform="translate(57.142857142857146,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">愛媛</text>
+    </g>
+    <g pcd="39" transform="translate(57.142857142857146,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">高知</text>
+    </g>
+    <g pcd="40" transform="translate(57.142857142857146,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">福岡</text>
+    </g>
+    <g pcd="41" transform="translate(0,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">佐賀</text>
+    </g>
+    <g pcd="42" transform="translate(0,114.28571428571429)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">長崎</text>
+    </g>
+    <g pcd="43" transform="translate(0,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">熊本</text>
+    </g>
+    <g pcd="44" transform="translate(57.142857142857146,171.42857142857142)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">大分</text>
+    </g>
+    <g pcd="45" transform="translate(57.142857142857146,228.57142857142858)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">宮崎</text>
+    </g>
+    <g pcd="46" transform="translate(0,285.7142857142857)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">鹿児島</text>
+    </g>
+    <g pcd="47" transform="translate(0,342.85714285714283)" style="border: 1px solid black">
+        <rect width="14.2%" height="14.2%" style="fill: none; stroke: gray"></rect>
+        <text x="7.142857142857143%" y="7.142857142857143%" style="fill: gray; font-size: 0.8em;text-anchor: middle; dominant-baseline: central">沖縄</text>
+    </g>
+</svg>
