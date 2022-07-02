@@ -11,6 +11,7 @@
 
 * 沖縄は九州と近づけるか隣り合わせ。北海道は石川県沖や秋田県沖に配置し、全体をコンパクトに。
 * 面積比を保つと、東京が小さすぎて選びづらい
+* [JIS X 0401](https://nlftp.mlit.go.jp/ksj/gml/codelist/PrefCd.html)の並びを意識すると良い場合も
 
 ## Catalogue
 
@@ -86,6 +87,7 @@
 * 地図によせつつ、人口密度が高いエリアは大きめに
   * <https://vdata.nikkei.com/election/2022/sanin/kaihyo/>
   * <https://www.nhk.or.jp/senkyo/database/sangiin/#ancSenkyokuSeatsMap>
+  * <https://www3.nhk.or.jp/news/special/coronavirus/data/>
 
 ### Hex Type
 
