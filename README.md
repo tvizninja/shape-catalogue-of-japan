@@ -53,16 +53,7 @@
 * case
   * <https://www.yomiuri.co.jp/election/sangiin/2022/kouho/>
 
-```
-　　　　　　　　北海
-　　　　　　　　　青
-　　　　　石　　秋岩
-　　　　　福富新山宮
-佐福山鳥島京滋群栃福
-長大広岡兵大岐長埼茨
-熊宮愛香　奈愛山東千
-沖鹿高徳　和三静神
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-8x10.svg" width="400" height="400">
 
 #### Grid 8x12
 
