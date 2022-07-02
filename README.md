@@ -27,12 +27,7 @@
 * 北海道を下に詰め、空いたマスに「総数」や「BackHomeボタン」を表現することも可能
 * 東日本が(普段よく見る地図に比べ)斜めになったり配置が歪むため、探しづらいか
 
-```
-佐福山島鳥京石新長群青北
-長大広岡兵滋福富埼栃秋
-鹿熊愛香大三岐山東茨山岩
-沖宮高徳奈和愛静神千福宮
-```
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-4x12.svg" width="400" height="400">
 
 #### Grid 7x7
 
