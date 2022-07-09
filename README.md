@@ -64,12 +64,15 @@
 
 <img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-10x13.svg" width="400" height="400">
 
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-10x13c.svg" width="400" height="400">
+
 ### Rectangle Type
 
 #### 地図に寄せたタイプ
 
 * 地図によせつつ、人口密度が高いエリアは大きめに
   * <https://vdata.nikkei.com/election/2022/sanin/kaihyo/>
+  * <https://www.data.go.jp/list-of-database/local-government>
   * <https://www.nhk.or.jp/senkyo/database/sangiin/#ancSenkyokuSeatsMap>
   * <https://www3.nhk.or.jp/news/special/coronavirus/data/>
 
