@@ -66,6 +66,13 @@
 
 <img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-10x13c.svg" width="400" height="400">
 
+#### Grid 17x13
+
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-17x13.svg" width="400" height="400">
+
+* <https://twitter.com/Yokohama_Geo/status/1547159498074501121>を参考にした
+* 縦は半グリッド
+
 ### Rectangle Type
 
 #### 地図に寄せたタイプ
