@@ -71,7 +71,7 @@
 <img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/grid-17x13.svg" width="400" height="400">
 
 * <https://twitter.com/Yokohama_Geo/status/1547159498074501121>を参考にした
-* 縦は半グリッド
+* 縦は半グリッドあると表現力が増す気がする。横は半グリッドなくてもなんとかなりそう。
 
 ### Rectangle Type
 
@@ -85,9 +85,13 @@
 
 ### Hex Type
 
+* 日本の地図でHexはあまり見たことないかも？
+* アメリカの場合、かなりいい感じのがあり、参考にしたい。
+  * <https://blog.apps.npr.org/2015/05/11/hex-tile-maps.html>
+
 ### List Type
 
-* 位置関係にこだわらなければ一番視認性と選択性が高いのでは
+* 西高東低、とか地理的な接続が表現する情報に関連があれば良いが、なければ単純なリスト形式が一番視認性と選択性が高いのかも
 * case
   * <https://www.asahi.com/senkyo/saninsen/2022/koho/>
 
