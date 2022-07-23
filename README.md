@@ -88,10 +88,12 @@
 * 日本の地図でHexはあまり見たことないかも？
 * アメリカの場合、かなりいい感じのがあり、参考にしたい。
   * <https://blog.apps.npr.org/2015/05/11/hex-tile-maps.html>
+* Hex Gridの考え方について参考になる記事
+  * <https://www.redblobgames.com/grids/hexagons/>
 
 ### List Type
 
-* 西高東低、とか地理的な接続が表現する情報に関連があれば良いが、なければ単純なリスト形式が一番視認性と選択性が高いのかも
+* 表現する情報に西高東低などの地理的な関連があれば良いが、なければ単純なリスト形式が一番視認性と選択性が高いのかも
 * case
   * <https://www.asahi.com/senkyo/saninsen/2022/koho/>
 
