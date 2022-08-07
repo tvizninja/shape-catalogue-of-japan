@@ -1,5 +1,3 @@
-# Shape catalogue of Japan
-
 ## What is This
 
 * データ可視化の分野で日本列島を表現する場合、単純化された地図を示す場合がある。
@@ -98,9 +96,11 @@
 
 <img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/hex-pointytop.svg" width="400" height="400">
 
+* [Hex座標からSVGを生成するSnnipets-flattop](https://codepen.io/tvizninja/pen/VwXzwjy)
+* [Hex座標からSVGを生成するSnnipets-pointytop](https://codepen.io/tvizninja/pen/VwXzrBx)
 * 多マス/都道府県として、実際の地図形状のシンプル化として使う方がよさそうか。
 
-* Hex Gridの考え方について参考になる記事
+* Hex Gridの考え方について参考にした記事
   * <https://www.redblobgames.com/grids/hexagons/>
 
 ### List Type
