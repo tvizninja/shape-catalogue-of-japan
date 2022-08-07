@@ -11,6 +11,9 @@
 
 * 沖縄は九州と近づけるか隣り合わせ。北海道は石川県沖や秋田県沖に配置し、全体をコンパクトに。
 * 面積比を保つと、東京が小さすぎて選びづらい
+* 海に面さない内陸県は次の8県
+  * 奈良、滋賀、岐阜、長野、山梨、埼玉、群馬、栃木
+* Gridに詰め込む場合海がある県を内陸に配置せざるを得ない。京都、富山、東京などは海への接続が相対的に小さい点、考慮可能か。
 * [JIS X 0401](https://nlftp.mlit.go.jp/ksj/gml/codelist/PrefCd.html)の並びを意識すると良い場合も
 
 ## Catalogue
@@ -88,12 +91,21 @@
 * 日本の地図でHexはあまり見たことないかも？
 * アメリカの場合、かなりいい感じのがあり、参考にしたい。
   * <https://blog.apps.npr.org/2015/05/11/hex-tile-maps.html>
+
+* FlatTopとPointyTopの2種類で、1マス/都道府県で作ってみた。
+
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/hex-flattop.svg" width="400" height="400">
+
+<img src="https://raw.githubusercontent.com/tvizninja/shape-catalogue-of-japan/main/svg/hex-pointytop.svg" width="400" height="400">
+
+* 多マス/都道府県として、実際の地図形状のシンプル化として使う方がよさそうか。
+
 * Hex Gridの考え方について参考になる記事
   * <https://www.redblobgames.com/grids/hexagons/>
 
 ### List Type
 
-* 表現する情報に西高東低などの地理的な関連があれば良いが、なければ単純なリスト形式が一番視認性と選択性が高いのかも
+* 表現する情報に西高東低などの地理的な関連があれば簡略化された地図を使うのも良いが、そうでなければ単純なリスト形式が一番視認性と選択性が高いのかもしれない
 * case
   * <https://www.asahi.com/senkyo/saninsen/2022/koho/>
 

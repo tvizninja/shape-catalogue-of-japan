@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 640">
+    <defs>
+        <pattern id="hex" x="0" y="0" width="106.51391253788452" height="61.49583607618788" patternUnits="userSpaceOnUse">
+            <path d="M 0,30.74791803809394 L 17.752318756314086,30.74791803809394 L 35.50463751262817,0 L 71.00927502525634,0 L 88.76159378157043,30.74791803809394 L 106.51391253788452,30.74791803809394 M 17.752318756314086,30.74791803809394 L 35.50463751262817,61.49583607618788 M 71.00927502525634,61.49583607618788 L 88.76159378157043,30.74791803809394" fill="none" stroke="gray"></path>
+        </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#hex)"></rect>
+    <g pcd="01" transform="translate(639.0834752273071, 61.49583607618792)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cac" fill="#cac" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">北海道</text>
+    </g>
+    <g pcd="02" transform="translate(585.8265189583649, 92.24375411428183)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">青森</text>
+    </g>
+    <g pcd="03" transform="translate(639.0834752273071, 122.99167215237578)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">岩手</text>
+    </g>
+    <g pcd="04" transform="translate(639.0834752273071, 184.48750822856366)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">宮城</text>
+    </g>
+    <g pcd="05" transform="translate(585.8265189583649, 153.73959019046967)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">秋田</text>
+    </g>
+    <g pcd="06" transform="translate(585.8265189583649, 215.23542626665758)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">山形</text>
+    </g>
+    <g pcd="07" transform="translate(639.0834752273071, 245.98334430475154)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8fd" fill="#8fd" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">福島</text>
+    </g>
+    <g pcd="08" transform="translate(639.0834752273071, 368.9750164571273)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">茨城</text>
+    </g>
+    <g pcd="09" transform="translate(639.0834752273071, 307.47918038093945)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">栃木</text>
+    </g>
+    <g pcd="10" transform="translate(585.8265189583649, 276.73126234284547)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">群馬</text>
+    </g>
+    <g pcd="11" transform="translate(585.8265189583649, 338.2270984190333)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">埼玉</text>
+    </g>
+    <g pcd="12" transform="translate(639.0834752273071, 430.47085253331517)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">千葉</text>
+    </g>
+    <g pcd="13" transform="translate(585.8265189583649, 399.7229344952212)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">東京</text>
+    </g>
+    <g pcd="14" transform="translate(585.8265189583649, 461.2187705714091)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#e89" fill="#e89" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">神奈川</text>
+    </g>
+    <g pcd="15" transform="translate(532.5695626894226, 245.9833443047515)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">新潟</text>
+    </g>
+    <g pcd="16" transform="translate(532.5695626894226, 307.47918038093934)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">富山</text>
+    </g>
+    <g pcd="17" transform="translate(479.31260642048034, 276.7312623428454)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">石川</text>
+    </g>
+    <g pcd="18" transform="translate(426.0556501515381, 307.47918038093934)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">福井</text>
+    </g>
+    <g pcd="19" transform="translate(532.5695626894226, 368.9750164571272)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">山梨</text>
+    </g>
+    <g pcd="20" transform="translate(479.31260642048034, 338.2270984190333)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">長野</text>
+    </g>
+    <g pcd="21" transform="translate(479.31260642048034, 399.7229344952212)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">岐阜</text>
+    </g>
+    <g pcd="22" transform="translate(532.5695626894226, 430.4708525333151)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">静岡</text>
+    </g>
+    <g pcd="23" transform="translate(479.31260642048034, 461.2187705714091)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#89d" fill="#89d" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">愛知</text>
+    </g>
+    <g pcd="24" transform="translate(426.0556501515381, 430.47085253331517)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">三重</text>
+    </g>
+    <g pcd="25" transform="translate(426.0556501515381, 368.9750164571273)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">滋賀</text>
+    </g>
+    <g pcd="26" transform="translate(372.7986938825958, 399.7229344952212)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">京都</text>
+    </g>
+    <g pcd="27" transform="translate(319.54173761365354, 430.47085253331517)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">大阪</text>
+    </g>
+    <g pcd="28" transform="translate(319.54173761365354, 368.9750164571273)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">兵庫</text>
+    </g>
+    <g pcd="29" transform="translate(372.7986938825958, 461.2187705714091)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">奈良</text>
+    </g>
+    <g pcd="30" transform="translate(319.54173761365354, 491.966688609503)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#ddb" fill="#ddb" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">和歌山</text>
+    </g>
+    <g pcd="31" transform="translate(266.2847813447113, 338.2270984190333)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#9b9" fill="#9b9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">鳥取</text>
+    </g>
+    <g pcd="32" transform="translate(213.02782507576904, 368.9750164571273)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#9b9" fill="#9b9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">島根</text>
+    </g>
+    <g pcd="33" transform="translate(266.2847813447113, 399.7229344952212)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#9b9" fill="#9b9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">岡山</text>
+    </g>
+    <g pcd="34" transform="translate(213.02782507576904, 430.4708525333151)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#9b9" fill="#9b9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">広島</text>
+    </g>
+    <g pcd="35" transform="translate(159.77086880682677, 399.7229344952212)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#9b9" fill="#9b9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">山口</text>
+    </g>
+    <g pcd="36" transform="translate(266.2847813447113, 522.714606647597)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#b9a" fill="#b9a" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">徳島</text>
+    </g>
+    <g pcd="37" transform="translate(266.2847813447113, 461.21877057140904)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#b9a" fill="#b9a" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">香川</text>
+    </g>
+    <g pcd="38" transform="translate(213.02782507576904, 491.966688609503)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#b9a" fill="#b9a" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">愛媛</text>
+    </g>
+    <g pcd="39" transform="translate(213.02782507576904, 553.4625246856909)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#b9a" fill="#b9a" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">高知</text>
+    </g>
+    <g pcd="40" transform="translate(106.51391253788452, 430.47085253331517)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">福岡</text>
+    </g>
+    <g pcd="41" transform="translate(53.25695626894226, 461.2187705714091)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">佐賀</text>
+    </g>
+    <g pcd="42" transform="translate(53.25695626894226, 522.714606647597)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">長崎</text>
+    </g>
+    <g pcd="43" transform="translate(106.51391253788452, 491.966688609503)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">熊本</text>
+    </g>
+    <g pcd="44" transform="translate(159.77086880682677, 461.2187705714091)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">大分</text>
+    </g>
+    <g pcd="45" transform="translate(159.77086880682677, 522.714606647597)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">宮崎</text>
+    </g>
+    <g pcd="46" transform="translate(106.51391253788452, 553.4625246856908)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#cb9" fill="#cb9" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">鹿児島</text>
+    </g>
+    <g pcd="47" transform="translate(53.25695626894226, 584.2104427237848)">
+        <polyline points="-35.50463751262817,0 -17.752318756314086,-30.74791803809394 17.752318756314086,-30.74791803809394 35.50463751262817,0 17.752318756314086,30.74791803809394 -17.752318756314086,30.74791803809394 -35.50463751262817,0" stroke="#8cc" fill="#8cc" opacity="0.5"></polyline>
+        <text x="0" y="0" style="fill: black; font-size: 1.2em;text-anchor: middle; dominant-baseline: central">沖縄</text>
+    </g>
+</svg>
